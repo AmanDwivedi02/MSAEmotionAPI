@@ -40,5 +40,10 @@ namespace MSAEmotions
         {
             await emotionsTable.InsertAsync(emotionModel);
         }
+
+        public async Task<List<RecentSpellChecks>> GetEmotion()
+        {
+            return await emotionsTable.ToListAsync();
+        }
     }
 }

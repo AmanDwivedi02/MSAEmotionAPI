@@ -3,11 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MSAEmotions"
              x:Class="MSAEmotions.MainPage">
-    <NavigationPage Title="Emotion Analysis">
-        <x:Arguments>
-            <local:EmotionsPage />
-        </x:Arguments>
-    </NavigationPage>
-    <local:RecentPage />
-
+    <local:EmotionsPage Title="Emotion Analyser"/>
+    <local:RecentPage Title="Recent Emotions"/>
 </TabbedPage>

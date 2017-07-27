@@ -34,3 +34,4 @@ C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MS
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\obj\Debug\MSAEmotions.View.RecentPage.xaml.g.cs
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\obj\Debug\MSAEmotions.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\obj\Debug\MSAEmotions.pdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\obj\Debug\MSAEmotions.csprojResolveAssemblyReference.cache

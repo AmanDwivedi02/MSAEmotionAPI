@@ -73,3 +73,15 @@ C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MS
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\res\xml\file_paths.xml
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\R.cs.flag
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\uploadflags.txt
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\bin\Debug\MSAEmotions.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\bin\Debug\MSAEmotions.Android.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\MSAEmotions.Android.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\MSAEmotions.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

@@ -4,7 +4,27 @@
              x:Class="MSAEmotions.RecentPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
+            <Button Text="Refresh Previous Emotions" Clicked="SyncHistory" />
+            <ListView x:Name="EmotionList">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <StackLayout Grid.Column="0" Orientation="Vertical" Margin="0,0,20,0">
+                                    <Label Text="{Binding Emotion}" HorizontalTextAlignment="Center" TextColor="Black"/>
+                                </StackLayout>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <ActivityIndicator x:Name="loading" IsRunning="False" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
