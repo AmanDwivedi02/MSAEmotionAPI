@@ -4,7 +4,7 @@
              x:Class="MSAEmotions.EmotionsPage">
     <ContentPage.Content>
         <StackLayout>
-            <Button Label ="Take Photo and Analyse" Clicked="OnPhotoClicked" />
+            <Button Text ="Take Photo and Analyse" Clicked="OnPhotoClicked" />
             <Image x:Name="image" />
             <Label Text="Welcome to Xamarin Forms!" />
             <ActivityIndicator x:Name="activityIndicator" />
