@@ -3,6 +3,7 @@ C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MS
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\MSAEmotions.pdb
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Microsoft.ProjectOxford.Common.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Plugin.Media.Abstractions.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Plugin.Media.dll
@@ -12,6 +13,7 @@ C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MS
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Xamarin.Forms.Core.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Plugin.Media.pdb
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions\bin\Debug\Plugin.Media.xml

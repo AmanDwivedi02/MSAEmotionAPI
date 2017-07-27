@@ -74,8 +74,19 @@ namespace MSAEmotions
                 Debug.WriteLine(ex.Message);
             }
 
+            await postEmotionAsync();      
+
             activityIndicator.IsRunning = false;
             ((Button)sender).IsEnabled = true;
+        }
+
+        async Task postEmotionAsync()
+        {
+            RecentSpellChecks model = new RecentSpellChecks()
+            {
+                Emotion = emotionResultLabel.Text
+            };
+            await EasyTablesBackend.EasyTablesBackendInstance.PostEmotion(model);
         }
     }
 }

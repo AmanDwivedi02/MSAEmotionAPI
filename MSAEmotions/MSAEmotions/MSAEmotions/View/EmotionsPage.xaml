@@ -6,7 +6,6 @@
         <StackLayout>
             <Button Text ="Take Photo and Analyse" Clicked="OnPhotoClicked" />
             <Image x:Name="image" />
-            <Label Text="Welcome to Xamarin Forms!" />
             <ActivityIndicator x:Name="activityIndicator" />
             <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
                 <Label Text="Emotion:" />
