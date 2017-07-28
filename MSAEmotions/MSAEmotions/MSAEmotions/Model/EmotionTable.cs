@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MSAEmotions
 {
-    public class RecentSpellChecks
+    public class EmotionTable
     {
         [JsonProperty(PropertyName = "Id")]
         public string ID { get; set; }

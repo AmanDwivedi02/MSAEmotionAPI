@@ -11,12 +11,12 @@ namespace MSAEmotions
     {
         private static EasyTablesBackend instance;
         private MobileServiceClient client;
-        private IMobileServiceTable<RecentSpellChecks> emotionsTable;
+        private IMobileServiceTable<EmotionTable> emotionsTable;
 
         private EasyTablesBackend()
         {
             client = new MobileServiceClient("http://spellcheckmsa.azurewebsites.net");
-            emotionsTable = client.GetTable<RecentSpellChecks>();
+            emotionsTable = client.GetTable<EmotionTable>();
         }
 
         public MobileServiceClient AzureClient
@@ -36,12 +36,12 @@ namespace MSAEmotions
             }
         }
 
-        public async Task PostEmotion(RecentSpellChecks emotionModel)
+        public async Task PostEmotion(EmotionTable emotionModel)
         {
             await emotionsTable.InsertAsync(emotionModel);
         }
 
-        public async Task<List<RecentSpellChecks>> GetEmotion()
+        public async Task<List<EmotionTable>> GetEmotion()
         {
             return await emotionsTable.ToListAsync();
         }
