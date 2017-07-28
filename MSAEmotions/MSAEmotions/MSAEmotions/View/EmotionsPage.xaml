@@ -3,13 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MSAEmotions.EmotionsPage">
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout Margin="20,0,20,0">
             <Button Text ="Take Photo and Analyse" Clicked="OnPhotoClicked" />
             <Image x:Name="image" />
             <ActivityIndicator x:Name="activityIndicator" />
             <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
-                <Label Text="Emotion:" />
-                <Label x:Name="emotionResultLabel" />
+                <Label Text="Emotion:" TextColor="White" />
+                <Label x:Name="emotionResultLabel" TextColor="White" />
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

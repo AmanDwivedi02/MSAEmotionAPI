@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MSAEmotions.RecentPage">
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout Margin="20,0,20,0">
             <Button Text="Refresh Previous Emotions" Clicked="SyncHistory" />
             <ListView x:Name="EmotionList">
                 <ListView.ItemTemplate>
@@ -16,8 +16,8 @@
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
-                                <StackLayout Grid.Column="0" Orientation="Vertical" Margin="0,0,20,0">
-                                    <Label Text="{Binding Emotion}" HorizontalTextAlignment="Center" TextColor="Black"/>
+                                <StackLayout Grid.Column="0" Orientation="Vertical">
+                                    <Label Text="{Binding Emotion}" HorizontalTextAlignment="Center" TextColor="White"/>
                                 </StackLayout>
                             </Grid>
                         </ViewCell>
