@@ -1,3 +1,4 @@
+C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\MSAEmotions.Android.csprojResolveAssemblyReference.cache
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\bin\Debug\MSAEmotions.Android.dll.config
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\bin\Debug\MSAEmotions.Android.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\bin\Debug\MSAEmotions.Android.pdb
@@ -59,7 +60,6 @@ C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MS
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\MSAEmotions.Android.csprojResolveAssemblyReference.cache
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\MSAEmotions.Android.dll
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\MSAEmotions.Android.pdb
 C:\Users\Aman\Documents\Visual Studio 2017\Projects\MSAEmotions\MSAEmotionAPI\MSAEmotions\MSAEmotions\MSAEmotions.Android\obj\Debug\android\bin\com.emotions.msa.apk

@@ -5,4 +5,5 @@
              x:Class="MSAEmotions.MainPage">
     <local:EmotionsPage Title="Emotion Analyser"/>
     <local:RecentPage Title="Recent Emotions"/>
+    <local:StatPage Title="Stats" />
 </TabbedPage>

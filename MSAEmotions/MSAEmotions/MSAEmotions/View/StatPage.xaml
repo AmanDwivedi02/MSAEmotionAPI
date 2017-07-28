@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MSAEmotions.StatPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid x:Name="StatsGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label Text="Number of Items:" Grid.Row="0" Grid.Column="0" />
+                <Label x:Name="EmotionCount" Grid.Row="0" Grid.Column="1" />
+                <Label Text="Most repeated emotion:" Grid.Row="1" Grid.Column="0" />
+                <Label x:Name="CommonMood" Grid.Row="1" Grid.Column="1" />
+            </Grid>
+            <Button Text="Refresh Statistics" Clicked="RefreshStats" />
+            <ActivityIndicator x:Name="loading" IsRunning="False" />
+            <Label Text="Note: If most repeated emotion is tied, displays a single most repeated emotion in reverse alphabetical order" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
