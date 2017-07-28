@@ -20,7 +20,7 @@ namespace MSAEmotions
         async void SyncHistory(object sender, EventArgs e)
         {
             loading.IsRunning = true;
-            List<RecentSpellChecks> emotionInformation = await EasyTablesBackend.EasyTablesBackendInstance.GetEmotion();
+            List<EmotionTable> emotionInformation = await EasyTablesBackend.EasyTablesBackendInstance.GetEmotion();
             EmotionList.ItemsSource = emotionInformation;
             loading.IsRunning = false;
         }

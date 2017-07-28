@@ -43,6 +43,10 @@ namespace MSAEmotions
                 {
                     image.Source = ImageSource.FromStream(photo.GetStream);
                 }
+                else
+                {
+                    return;
+                }
             }
             else
             {
@@ -73,8 +77,10 @@ namespace MSAEmotions
             {
                 Debug.WriteLine(ex.Message);
             }
-
-            await postEmotionAsync();      
+            if (emotionResultLabel.Text != null)
+            {
+                await postEmotionAsync();
+            }
 
             activityIndicator.IsRunning = false;
             ((Button)sender).IsEnabled = true;
@@ -82,7 +88,7 @@ namespace MSAEmotions
 
         async Task postEmotionAsync()
         {
-            RecentSpellChecks model = new RecentSpellChecks()
+            EmotionTable model = new EmotionTable()
             {
                 Emotion = emotionResultLabel.Text
             };
